@@ -1,0 +1,11 @@
+*{
+    margin: 0px;;
+    padding:0;
+    box-sizing: border-box;
+}
+.content{
+    margin-top: 3rem;
+}
+.skills{
+    margin-top:6rem;
+}
